@@ -2,7 +2,7 @@
 
 This program uses cosine similarity to predict which movies you will like based on what movies other users on IMDB like.
 
-View the notebook here on [GitHub](https://github.com/tinkerer9/imdbcollaborativefilter/blob/main/IMDB_Collaborative_Filter.ipynb) or run it on [Google Colab](https://colab.research.google.com/drive/1H-imyPHMtxoq_W3JoGZcy9bvqyZn_9GD?usp=sharing).z
+View the notebook here on [GitHub](https://github.com/tinkerer9/imdbcollaborativefilter/blob/main/IMDB_Collaborative_Filter.ipynb) or run it on [Google Colab](https://colab.research.google.com/github/tinkerer9/imdb-collaborative-filter/blob/main/IMDB_Collaborative_Filter.ipynb).
 
 ## Intended use
 
