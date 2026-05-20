@@ -21,6 +21,4 @@ This is known as **collaborative filtering**.
 
 ## Data source
 
-The data in this project come from two CSV files from [IMDB](https://imdb.com): [`movies.csv`](https://github.com/tinkerer9/imdbdataset/blob/main/movies.csv) and [`ratings.csv`](https://github.com/tinkerer9/imdbdataset/blob/main/ratings.csv).
-If the files are not found, the program automatically downloads them.
-See more at [`getIMDBRatings()`](https://colab.research.google.com/drive/1H-imyPHMtxoq_W3JoGZcy9bvqyZn_9GD#scrollTo=Tasu3gTy8Wqe).
+The data in this project come from two CSV files from [IMDB](https://imdb.com): [`movies.csv`](https://github.com/tinkerer9/imdb-collaborative-filter/blob/main/data/movies.csv) and [`ratings.csv`](https://github.com/tinkerer9/imdb-collaborative-filter/blob/main/data/ratings.csv).
